@@ -1,0 +1,21 @@
+{
+    "name": "muyrux-theme",
+    "displayName": "Muyrux Theme",
+    "description": "theme light dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Muyrux Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Muyrux Theme-color-theme.json"
+            }
+        ]
+    }
+}
